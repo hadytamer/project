@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.member1{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+
+.member1 img {
+    
+    width: 500px;
+    transition: width 2s, height 2s;
+
+}
+
+
+.member1 img:hover
+{
+    width: 600px;
+    height: 500px;
+}
